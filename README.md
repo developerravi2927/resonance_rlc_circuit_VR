@@ -21,5 +21,6 @@ connected with external supply voltage
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--| 
-1 | Sneha kumari | student  | Informationa Technology | Rajkiya Engineering College Banda | snehakumarihzb1@gmail.com 
+1 | Ravi Bhushan Pandey| student  | Informationa Technology | Rajkiya Engineering College Banda | ravipandey2927@gmail.com
+
 
